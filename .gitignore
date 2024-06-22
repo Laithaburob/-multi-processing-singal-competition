@@ -1,0 +1,8 @@
+.vscode
+*.txt
+child
+parent
+range.txt
+opengl
+openglFifo
+src/range.txt
